@@ -4,3 +4,10 @@ master 44g
 master 1
 master 2
 master 3
+<<<<<<< HEAD
+=======
+>>>>>>> minsik
+
+-- wonyoung test
+1234 wony 
+>>>>>>> 33604c73064ae19194372c300d09ad6f51317ab8
